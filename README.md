@@ -16,7 +16,7 @@ This machine learning team project is about - Mushroom Classification
 4. Fit the dataset with 7 common machine learning models and comparing between models
    - Logistic Regression
    - GaussianNB
-   - KNeighbors Classifier
+   - K-Nearest Neighbors Classifier
    - Decision Tree Classifier
    - Random Forest Classifier
    - Gradient Boosting Classifier
